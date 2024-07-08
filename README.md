@@ -1,2 +1,2 @@
 # Basic-git
-basic repo
+basic repo learninghub.com
